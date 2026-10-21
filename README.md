@@ -27,11 +27,9 @@
 
 ## `01` / ABOUT ME
 
-<table width="100%">
+<table width="100%" border="1" bordercolor="#312E81" cellpadding="18" cellspacing="8">
 <tr>
-<td width="58%" valign="top">
-
-<div align="left">
+<td width="58%" valign="top" bgcolor="#080D1C">
 
 ### 👋 Hey, I'm Kevin
 
@@ -49,28 +47,23 @@ My interests span frontend and backend development, database systems, applicatio
 
 > *"Build with purpose. Solve real problems. Keep evolving."*
 
-</div>
-
 </td>
-<td width="42%" valign="top">
-
-<div align="left">
+<td width="42%" valign="top" bgcolor="#080D1C">
 
 ### Developer Profile
 
-| Profile | Details |
-|:---|:---|
-| **Name** | Kevin Tri Putra |
-| **Role** | Full Stack Developer |
-| **Education** | Telkom University |
-| **Focus** | Web, Mobile, IoT, ML |
-| **Mindset** | Keep building |
+<table width="100%" border="1" bordercolor="#334155" cellpadding="8" cellspacing="0">
+<tr><th align="left">Profile</th><th align="left">Details</th></tr>
+<tr><td><strong>Name</strong></td><td>Kevin Tri Putra</td></tr>
+<tr><td><strong>Role</strong></td><td>Full Stack Developer</td></tr>
+<tr><td><strong>Education</strong></td><td>Telkom University</td></tr>
+<tr><td><strong>Focus</strong></td><td>Web, Mobile, IoT, ML</td></tr>
+<tr><td><strong>Mindset</strong></td><td>Keep building</td></tr>
+</table>
 
 <br/>
 
 <code>&gt; Keep coding... ▮</code>
-
-</div>
 
 </td>
 </tr>
@@ -84,23 +77,23 @@ My interests span frontend and backend development, database systems, applicatio
 
 ## `02` / TECHNOLOGY ARSENAL
 
-<table width="100%">
+<table width="100%" border="1" bordercolor="#312E81" cellpadding="14" cellspacing="8">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="center" bgcolor="#080D1C">
 
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=php,python,dart,html,css,js&theme=dark" alt="PHP, Python, Dart, HTML, CSS, and JavaScript"/>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="center" bgcolor="#080D1C">
 
 ### Frameworks
 
 <img src="https://skillicons.dev/icons?i=laravel,flutter,react&theme=dark" alt="Laravel, Flutter, and React"/>
 
 </td>
-<td width="34%" valign="top" align="center">
+<td width="34%" valign="top" align="center" bgcolor="#080D1C">
 
 ### Tools
 
@@ -114,17 +107,13 @@ My interests span frontend and backend development, database systems, applicatio
 
 ## `03` / SELECTED PROJECTS
 
-<div align="center">
-<sub>REAL PROJECTS · PRACTICAL ENGINEERING · CONTINUOUS IMPROVEMENT</sub>
-</div>
+<div align="center"><sub>REAL PROJECTS · PRACTICAL ENGINEERING · CONTINUOUS IMPROVEMENT</sub></div>
 
 <br/>
 
-<table width="100%">
+<table width="100%" border="1" bordercolor="#8B5CF6" cellpadding="18" cellspacing="8">
 <tr>
-<td width="50%" valign="top">
-
-<div align="left">
+<td width="50%" valign="top" bgcolor="#080D1C">
 
 ### ♻️ iTrashy
 
@@ -146,12 +135,8 @@ An integrated waste management platform connecting citizens, collection drivers,
 
 <a href="https://github.com/KevinTriPutra19/Mobile_TugasAkhir"><img src="https://img.shields.io/badge/VIEW%20SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View iTrashy source repository"/></a>
 
-</div>
-
 </td>
-<td width="50%" valign="top">
-
-<div align="left">
+<td width="50%" valign="top" bgcolor="#080D1C">
 
 ### 📷 Treadmill Monitoring
 
@@ -173,8 +158,6 @@ An IoT monitoring system that captures treadmill display readings and extracts i
 
 <a href="https://github.com/KevinTriPutra19/Treadmill"><img src="https://img.shields.io/badge/VIEW%20SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View Treadmill source repository"/></a>
 
-</div>
-
 </td>
 </tr>
 </table>
@@ -183,35 +166,51 @@ An IoT monitoring system that captures treadmill display readings and extracts i
 
 ## `04` / GITHUB ANALYTICS
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+<div align="center"><sub>PROFILE OVERVIEW · LANGUAGE DISTRIBUTION · CONTRIBUTION MOMENTUM</sub></div>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=KevinTriPutra19&show_icons=true&hide_border=true&border_radius=12&bg_color=050816&title_color=A78BFA&icon_color=67E8F9&text_color=CBD5E1&ring_color=8B5CF6" alt="Kevin Tri Putra GitHub statistics"/>
+<br/>
+
+<table width="100%" border="1" bordercolor="#312E81" cellpadding="12" cellspacing="8">
+<tr>
+<td width="50%" valign="top" bgcolor="#050816">
+
+<div align="center"><strong>PROFILE STATISTICS</strong></div>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=KevinTriPutra19&show_icons=true&hide_border=false&border_color=312E81&border_radius=12&bg_color=050816&title_color=A78BFA&icon_color=67E8F9&text_color=CBD5E1&ring_color=8B5CF6" alt="Kevin Tri Putra GitHub profile statistics"/>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" bgcolor="#050816">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTriPutra19&layout=compact&hide_border=true&border_radius=12&bg_color=050816&title_color=A78BFA&text_color=CBD5E1&langs_count=8" alt="Kevin Tri Putra most used programming languages"/>
+<div align="center"><strong>MOST USED LANGUAGES</strong></div>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTriPutra19&layout=compact&hide_border=false&border_color=312E81&border_radius=12&bg_color=050816&title_color=A78BFA&text_color=CBD5E1&langs_count=8" alt="Kevin Tri Putra most used programming languages"/>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" width="100%" align="center">
+<td colspan="2" width="100%" valign="top" bgcolor="#050816">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=KevinTriPutra19&hide_border=true&border_radius=12&background=050816&ring=8B5CF6&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Kevin Tri Putra GitHub contribution streak"/>
+<div align="center"><strong>CONTRIBUTION STREAK</strong></div>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=KevinTriPutra19&hide_border=false&border=312E81&border_radius=12&background=050816&ring=8B5CF6&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Kevin Tri Putra GitHub contribution streak"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,50:8B5CF6,100:22D3EE" width="100%" alt="Analytics neon divider"/>
+</div>
+
 ---
 
 ## `05` / CONNECT WITH ME
 
-<table width="100%">
+<table width="100%" border="1" bordercolor="#0E7490" cellpadding="18" cellspacing="8">
 <tr>
-<td width="62%" valign="top">
+<td width="62%" valign="top" bgcolor="#080D1C">
 
 ### Let's build something useful
 
@@ -222,7 +221,7 @@ Whether you want to talk about a project, technology, or potential collaboration
 > *Learn continuously. Build thoughtfully. Improve consistently.*
 
 </td>
-<td width="38%" valign="middle" align="center">
+<td width="38%" valign="middle" align="center" bgcolor="#080D1C">
 
 <a href="https://github.com/KevinTriPutra19"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Open GitHub profile"/></a>
 
