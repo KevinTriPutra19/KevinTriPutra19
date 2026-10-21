@@ -70,7 +70,7 @@ My interests span frontend and backend development, database systems, applicatio
 
 ---
 
-## `02` / TECHNOLOGY ARSENAL
+## `02` / TECHNOLOGY 
 
 <table width="100%">
 <tr>
