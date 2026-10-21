@@ -102,9 +102,19 @@ My interests span frontend and backend development, database systems, applicatio
 
 ## `03` / SELECTED PROJECTS
 
+<div align="center">
+<sub>REAL PROJECTS · PRACTICAL ENGINEERING · CONTINUOUS IMPROVEMENT</sub>
+</div>
+
+<br/>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/KevinTriPutra19/Mobile_TugasAkhir">
+<img width="100%" src="https://raw.githubusercontent.com/KevinTriPutra19/Mobile_TugasAkhir/main/Mobile/assets/cover3%201.png" alt="iTrashy digital waste management project preview"/>
+</a>
 
 <div align="center">
 
@@ -116,8 +126,6 @@ My interests span frontend and backend development, database systems, applicatio
 
 An integrated waste management platform connecting citizens, collection drivers, and administrators through mobile and web applications.
 
-**Highlights**
-
 - Waste pickup requests and collection tracking
 - AI-powered waste image scanning
 - Eco-points and reward redemption
@@ -125,8 +133,6 @@ An integrated waste management platform connecting citizens, collection drivers,
 - Web-based administration system
 
 **Stack:** `Flutter` `Dart` `PHP` `MySQL`
-
-<br/>
 
 <div align="center">
 <a href="https://github.com/KevinTriPutra19/Mobile_TugasAkhir">
@@ -136,6 +142,10 @@ An integrated waste management platform connecting citizens, collection drivers,
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/KevinTriPutra19/Treadmill">
+<img width="100%" src="https://raw.githubusercontent.com/KevinTriPutra19/Treadmill/main/uploads/latest2.jpg" alt="Treadmill monitoring system project preview"/>
+</a>
 
 <div align="center">
 
@@ -147,8 +157,6 @@ An integrated waste management platform connecting citizens, collection drivers,
 
 An IoT monitoring system that captures treadmill display readings and extracts information through optical character recognition.
 
-**Highlights**
-
 - ESP32-CAM image capture
 - OCR with EasyOCR and OpenCV
 - PHP and MySQL integration
@@ -156,8 +164,6 @@ An IoT monitoring system that captures treadmill display readings and extracts i
 - Docker Compose deployment
 
 **Stack:** `PHP` `Python` `OpenCV` `EasyOCR` `MySQL` `Docker`
-
-<br/>
 
 <div align="center">
 <a href="https://github.com/KevinTriPutra19/Treadmill">
@@ -176,21 +182,15 @@ An IoT monitoring system that captures treadmill display readings and extracts i
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
-
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KevinTriPutra19&show_icons=true&hide_border=true&border_radius=12&bg_color=050816&title_color=A78BFA&icon_color=67E8F9&text_color=CBD5E1&ring_color=8B5CF6" alt="Kevin Tri Putra GitHub statistics"/>
-
 </td>
 <td width="50%" valign="top" align="center">
-
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTriPutra19&layout=compact&hide_border=true&border_radius=12&bg_color=050816&title_color=A78BFA&text_color=CBD5E1&langs_count=8" alt="Kevin Tri Putra most used programming languages"/>
-
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-
 <img width="76%" src="https://streak-stats.demolab.com?user=KevinTriPutra19&hide_border=true&border_radius=12&background=050816&ring=8B5CF6&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Kevin Tri Putra GitHub contribution streak"/>
-
 </td>
 </tr>
 </table>
@@ -214,21 +214,15 @@ Whether you want to talk about a project, technology, or potential collaboration
 </td>
 <td width="38%" valign="middle" align="center">
 
-<a href="https://github.com/KevinTriPutra19">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Open GitHub profile"/>
-</a>
+<a href="https://github.com/KevinTriPutra19"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Open GitHub profile"/></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/kevin-tri-putra-7a014a25">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open LinkedIn profile"/>
-</a>
+<a href="https://www.linkedin.com/in/kevin-tri-putra-7a014a25"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open LinkedIn profile"/></a>
 
 <br/><br/>
 
-<a href="mailto:kpnkvn19@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to Kevin Tri Putra"/>
-</a>
+<a href="mailto:kpnkvn19@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to Kevin Tri Putra"/></a>
 
 </td>
 </tr>
