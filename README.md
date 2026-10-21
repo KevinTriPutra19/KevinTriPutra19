@@ -1,222 +1,213 @@
 
-<!-- ===================== HEADER ===================== -->
+<!--
+  KEVIN TRI PUTRA — Portofolio
+  Theme: Midnight Blue / Muted Neon Purple / Cyan
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1020,50:17133A,100:312E81&text=Kevin%20Tri%20Putra&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Backend%20Developer%20%7C%20Information%20Systems%20Graduate&descAlignY=70&descSize=16&animation=fadeIn" width="100%" />
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,45:111936,75:312E81,100:0E7490&text=Kevin%20Tri%20Putra&fontSize=42&fontColor=EDE9FE&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=14&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" alt="Kevin Tri Putra header" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer;PHP+%26+Laravel+Enthusiast;IoT+%26+Machine+Learning+Explorer;Building+Practical+Digital+Solutions" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=A5B4FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Web+Applications+%26+APIs;PHP+%7C+Laravel+%7C+MySQL;IoT+%7C+OCR+%7C+Machine+Learning;Turning+Ideas+Into+Useful+Solutions" alt="Typing animation" />
 
 <br/>
 
 <a href="https://github.com/KevinTriPutra19">
-  <img src="https://img.shields.io/badge/GitHub-KevinTriPutra19-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-KevinTriPutra19-0B1220?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Backend%20Development-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROLE-FULL%20STACK-312E81?style=for-the-badge&logo=codeigniter&logoColor=EDE9FE" alt="Full Stack Developer"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-0F766E?style=for-the-badge&logo=gitbook&logoColor=CCFBF1" alt="Always learning"/>
+
+<br/><br/>
+
+`> Initializing developer profile...`  
+`> Loading skills, projects, and ideas...`  
+`> Status: Ready to build.`
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+## `01 // ABOUT ME`
 
-## `$ whoami`
+```text
+Name       : Kevin Tri Putra
+Role       : Full Stack Developer
+Education  : Information Systems — Telkom University
+Interests  : Web Development, IoT, Machine Learning, Mobile Deveploment
+Mindset    : Learn continuously. Build thoughtfully.
+```
 
-I'm an Information Systems graduate from **Telkom University** with an interest in Full Stack development, database management, and system integration.
+I'm an Information Systems graduate from **Telkom University** who enjoys building practical applications from frontend interfaces to backend services and databases.
 
-I enjoy building practical applications that connect software, data, and hardware — from web-based management systems to IoT monitoring and machine learning projects.
+I like exploring how web technologies can work together with IoT devices, OCR, and machine learning to solve real-world problems.
 
-- 💻 Focused on backend development and REST API integration
-- 🐘 Experienced with PHP, Laravel, and MySQL
-- 🐳 Interested in Docker, Linux, and application deployment
-- 🤖 Exploring machine learning, OCR, and computer vision
-- 🔌 Building solutions that integrate IoT devices with web applications
-- 🌱 Always learning and improving my software engineering skills
+- 🌐 Developing end-to-end web applications
+- ⚙️ Building backend services and integrating APIs
+- 🗄️ Working with relational databases
+- 🐳 Exploring Docker, Linux, and deployment workflows
+- 🤖 Experimenting with OCR, computer vision, and machine learning
+- 🔌 Connecting software applications with IoT devices
 
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## `$ tech-stack`
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Frameworks & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
+> *"Build something useful. Solve real problems."*
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+## `02 // TECH STACK`
 
-## `$ featured-projects`
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=php,python,dart,html,css,js&theme=dark" alt="Programming languages"/>
+
+### `FRAMEWORKS & DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=laravel,flutter,react&theme=dark" alt="Frameworks"/>
+
+### `DATABASES & TOOLS`
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,docker,linux,arduino&theme=dark" alt="Tools and technologies"/>
+
+</div>
+
+---
+
+## `03 // FEATURED PROJECTS`
+
+<div align="center">
 
 ### ♻️ iTrashy — Digital Waste Management
 
-A digital waste management ecosystem designed to connect citizens, waste collection drivers, and administrators in one integrated platform.
+**A connected platform for smarter waste collection.**
 
-**Highlights**
+</div>
+
+An integrated waste management ecosystem connecting citizens, collection drivers, and administrators through mobile and web applications.
+
 - Waste pickup requests and collection tracking
 - AI-powered waste image scanning
 - Eco-points and reward redemption
-- Dedicated citizen and driver mobile applications
+- Separate citizen and driver mobile applications
 - Web-based management system
 
-**Tech Stack**
+**Technologies:** Flutter · Dart · PHP · MySQL
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-[**View Repository →**](https://github.com/KevinTriPutra19/Mobile_TugasAkhir)
+<a href="https://github.com/KevinTriPutra19/Mobile_TugasAkhir">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore iTrashy"/>
+</a>
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+---
+
+<div align="center">
 
 ### 📷 Treadmill Monitoring System
 
-An IoT-based monitoring system that captures treadmill display data and extracts readings using OCR, with a containerized deployment setup.
+**IoT monitoring with OCR and containerized deployment.**
 
-**Highlights**
+</div>
+
+An IoT-based system that captures treadmill display readings and extracts information using optical character recognition.
+
 - ESP32-CAM image capture
 - OCR processing with EasyOCR and OpenCV
 - PHP and MySQL integration
-- RFID-based functionality
+- RFID functionality
 - Docker Compose deployment
-- PHP, MySQL, and phpMyAdmin services
 
-**Tech Stack**
+**Technologies:** PHP · Python · OpenCV · EasyOCR · MySQL · Docker
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-[**View Repository →**](https://github.com/KevinTriPutra19/Treadmill)
+<a href="https://github.com/KevinTriPutra19/Treadmill">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Treadmill"/>
+</a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</div>
+
+---
+
+<div align="center">
 
 ### 🤖 Obesity Classification Using KNN
 
 A machine learning project exploring obesity-level classification using dataset features and the K-Nearest Neighbors algorithm.
 
-**Areas of Interest**
-- Data preprocessing
-- Classification algorithms
-- Model evaluation
+**Technologies:** Python · KNN · Machine Learning
 
-**Tech Stack**
+</div>
 
-`Python` · `KNN` · `Machine Learning`
+---
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
 ### 💧 IoT Automatic Plant Watering
 
 An IoT project focused on automating plant watering through a microcontroller and a water pump control system.
 
-**Areas of Interest**
-- Sensor-based automation
-- Microcontroller integration
-- Automated watering control
+**Technologies:** NodeMCU ESP8266 · IoT · Relay
 
-**Tech Stack**
-
-`NodeMCU ESP8266` · `IoT` · `Relay`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-## `$ github-analytics`
+## `04 // GITHUB ANALYTICS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KevinTriPutra19&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=8B5CF6&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KevinTriPutra19&show_icons=true&hide_border=true&bg_color=050816&title_color=A78BFA&icon_color=38BDF8&text_color=CBD5E1&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTriPutra19&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTriPutra19&layout=compact&hide_border=true&bg_color=050816&title_color=A78BFA&text_color=CBD5E1&langs_count=8" alt="Top programming languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=KevinTriPutra19&hide_border=true&background=050816&ring=8B5CF6&fire=38BDF8&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `05 // CURRENT OBJECTIVES`
+
+```text
+[01] Strengthen full stack development skills
+[02] Build maintainable web applications and APIs
+[03] Improve database design and optimization
+[04] Learn better deployment and DevOps practices
+[05] Explore practical IoT and machine learning solutions
+[06] Keep building, documenting, and improving projects
+```
+
+---
+
+## `06 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/KevinTriPutra19">
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
+</a>
+
+<!-- Add your LinkedIn or professional email when ready -->
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:312E81,50:8B5CF6,100:0E7490" width="80%" alt="Purple cyan divider"/>
+
+<sub><code>while (learning) { build(); improve(); repeat(); }</code></sub>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KevinTriPutra19&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak" />
+<img src="https://komarev.com/ghpvc/?username=KevinTriPutra19&style=flat-square&color=312E81&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
-</div>
+<br/><br/>
 
----
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## `$ current-focus`
-
-- Building reliable backend applications and APIs
-- Improving database design and query management
-- Learning better deployment workflows with Docker and Linux
-- Exploring practical applications of OCR, IoT, and machine learning
-- Writing cleaner, maintainable, and well-documented code
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-## `$ connect`
-
-<div align="center">
-
-I'm always interested in learning, collaborating, and building useful software.
-
-<a href="https://github.com/KevinTriPutra19">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:312E81,100:0B1020&section=footer" width="100%" />
-
-<sub>Designed with focus, built with curiosity. · © Kevin Tri Putra</sub>
+<sub>Designed in midnight tones. Powered by curiosity.</sub>
 
 </div>
