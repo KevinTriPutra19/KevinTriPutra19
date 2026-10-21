@@ -5,17 +5,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:111936,75:312E81,100:0E7490&text=Kevin%20Tri%20Putra&fontSize=44&fontColor=EDE9FE&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Information%20Systems%20Graduate&descAlignY=60&descSize=18&descColor=A5B4FC" alt="Kevin Tri Putra banner"/>
+<!-- HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:030712,35:0B1026,65:312E81,100:0E7490&text=Kevin%20Tri%20Putra&fontSize=50&fontColor=F8FAFC&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Information%20Systems%20Graduate&descAlignY=55&descSize=19&descColor=A5B4FC&animation=fadeIn" alt="Kevin Tri Putra portfolio banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=A5B4FC&center=true&vCenter=true&width=700&lines=Building+useful+web+applications;Connecting+software+with+IoT;Exploring+OCR+and+machine+learning;Always+learning%2C+building%2C+and+improving" alt="Typing animation"/>
+<!-- PROFILE INTRO STRIP -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+useful+web+applications;Connecting+software+with+IoT;Exploring+OCR+and+machine+learning;Always+learning%2C+building%2C+and+improving" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://github.com/KevinTriPutra19">
-  <img src="https://img.shields.io/badge/GitHub-KevinTriPutra19-0B1220?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/ROLE-FULL%20STACK-312E81?style=for-the-badge&logo=codeigniter&logoColor=EDE9FE" alt="Full Stack Developer"/>
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-0F766E?style=for-the-badge&logo=gitbook&logoColor=CCFBF1" alt="Always learning"/>
+<img src="https://img.shields.io/badge/BUILDING-WEB%20%26%20MOBILE%20APPS-111936?style=for-the-badge&logo=code&logoColor=67E8F9" alt="Building web and mobile apps"/>
+<img src="https://img.shields.io/badge/FOCUS-IOT%20%7C%20OCR%20%7C%20ML-312E81?style=for-the-badge&logo=arduino&logoColor=EDE9FE" alt="IoT OCR and machine learning focus"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-0F766E?style=for-the-badge&logo=gitbook&logoColor=CCFBF1" alt="Always learning"/>
 
 <br/><br/>
 
@@ -188,6 +188,12 @@ An IoT-based system that captures treadmill display readings and extracts inform
 
 <a href="https://github.com/KevinTriPutra19">
   <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/kevin-tri-putra-7a014a25a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:kpnkvn19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kpnkvn19%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kevin Tri Putra"/>
 </a>
 
 <br/><br/>
