@@ -1,88 +1,131 @@
 
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Kevin%20Tri%20Putra&fontSize=42&fontColor=E2E8F0&fontAlignY=38&desc=Backend%20Developer%20%7C%20Information%20Systems%20Graduate&descSize=15&descAlignY=58&color=0:0B1120,50:172554,100:4338CA" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1020,50:17133A,100:312E81&text=Kevin%20Tri%20Putra&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Backend%20Developer%20%7C%20Information%20Systems%20Graduate&descAlignY=70&descSize=16&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=500&lines=Backend+Developer;PHP+%26+Laravel+Enthusiast;Building+Reliable+Digital+Solutions" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer;PHP+%26+Laravel+Enthusiast;IoT+%26+Machine+Learning+Explorer;Building+Practical+Digital+Solutions" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/KevinTriPutra19">
+  <img src="https://img.shields.io/badge/GitHub-KevinTriPutra19-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-312E81?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-1E3A8A?style=flat-square" alt="Status" />
-</p>
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-16A34A?style=for-the-badge" />
 
 </div>
 
 ---
 
-## About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-I'm an **Information Systems graduate from Telkom University** with a strong interest in backend development, database management, and building practical software solutions.
+## `$ whoami`
 
-- 💻 Developing web applications with PHP and Laravel.
-- 🗄️ Exploring database design, authentication, and API integration.
-- 🤖 Experienced with projects involving Machine Learning, OCR, and IoT.
-- 🐳 Familiar with Docker and VPS deployment workflows.
-- 🌱 Continuously improving my programming and problem-solving skills.
+I'm an Information Systems graduate from **Telkom University** with an interest in backend development, database management, and system integration.
+
+I enjoy building practical applications that connect software, data, and hardware — from web-based management systems to IoT monitoring and machine learning projects.
+
+- 💻 Focused on backend development and REST API integration
+- 🐘 Experienced with PHP, Laravel, and MySQL
+- 🐳 Interested in Docker, Linux, and application deployment
+- 🤖 Exploring machine learning, OCR, and computer vision
+- 🔌 Building solutions that integrate IoT devices with web applications
+- 🌱 Always learning and improving my software engineering skills
 
 ---
 
-## Tech Stack
+<!-- ===================== TECH STACK ===================== -->
 
-<div align="center">
+## `$ tech-stack`
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=php,python,html,css&theme=dark" alt="Languages" />
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### Frameworks
+### Frameworks & Technologies
 
-<img src="https://skillicons.dev/icons?i=laravel,flutter&theme=dark" alt="Frameworks" />
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-### Database, Tools & Infrastructure
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,docker,linux&theme=dark" alt="Tools" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
 
 ---
 
-## Featured Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## `$ featured-projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ♻️ Bank Sampah Management System
+### ♻️ iTrashy — Digital Waste Management
 
-A web and mobile platform for waste collection, pickup requests, transaction history, and point management.
+A digital waste management ecosystem designed to connect citizens, waste collection drivers, and administrators in one integrated platform.
 
-**Key Features**
-- User authentication and role-based access
-- Waste deposit and pickup management
-- Point exchange functionality
-- Waste image classification
+**Highlights**
+- Waste pickup requests and collection tracking
+- AI-powered waste image scanning
+- Eco-points and reward redemption
+- Dedicated citizen and driver mobile applications
+- Web-based management system
 
-**Stack:** PHP · Laravel · MySQL · Flutter · ML
+**Tech Stack**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[**View Repository →**](https://github.com/KevinTriPutra19/Mobile_TugasAkhir)
 
 </td>
 <td width="50%" valign="top">
 
-### 📷 IoT & OCR Treadmill Monitoring
+### 📷 Treadmill Monitoring System
 
-An IoT solution that captures treadmill display readings and extracts information automatically using OCR.
+An IoT-based monitoring system that captures treadmill display data and extracts readings using OCR, with a containerized deployment setup.
 
-**Key Features**
+**Highlights**
 - ESP32-CAM image capture
-- Automated text recognition
-- RFID-based identification
-- Docker-based VPS deployment
+- OCR processing with EasyOCR and OpenCV
+- PHP and MySQL integration
+- RFID-based functionality
+- Docker Compose deployment
+- PHP, MySQL, and phpMyAdmin services
 
-**Stack:** Python · EasyOCR · ESP32-CAM · RFID · Docker
+**Tech Stack**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[**View Repository →**](https://github.com/KevinTriPutra19/Treadmill)
 
 </td>
 </tr>
@@ -91,28 +134,32 @@ An IoT solution that captures treadmill display readings and extracts informatio
 
 ### 🤖 Obesity Classification Using KNN
 
-A machine learning project that classifies obesity levels using dataset features and the K-Nearest Neighbors algorithm.
+A machine learning project exploring obesity-level classification using dataset features and the K-Nearest Neighbors algorithm.
 
-**Key Features**
+**Areas of Interest**
 - Data preprocessing
-- Model training and evaluation
-- Classification workflow
+- Classification algorithms
+- Model evaluation
 
-**Stack:** Python · KNN · Machine Learning
+**Tech Stack**
+
+`Python` · `KNN` · `Machine Learning`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💧 IoT Automatic Plant Watering
 
-An IoT project that automates plant watering through a microcontroller, relay, and water pump.
+An IoT project focused on automating plant watering through a microcontroller and a water pump control system.
 
-**Key Features**
+**Areas of Interest**
+- Sensor-based automation
+- Microcontroller integration
 - Automated watering control
-- Microcontroller and pump integration
-- Timer-based control
 
-**Stack:** NodeMCU ESP8266 · IoT · Relay
+**Tech Stack**
+
+`NodeMCU ESP8266` · `IoT` · `Relay`
 
 </td>
 </tr>
@@ -120,54 +167,56 @@ An IoT project that automates plant watering through a microcontroller, relay, a
 
 ---
 
-## GitHub Analytics
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+## `$ github-analytics`
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0B1120&title_color=818CF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" alt="GitHub Statistics" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KevinTriPutra19&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=8B5CF6&include_all_commits=true" alt="GitHub Stats" />
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B1120&title_color=818CF8&text_color=CBD5E1" alt="Top Languages" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTriPutra19&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0B1120&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=KevinTriPutra19&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## Current Goals
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-- Improve my PHP and Laravel development skills.
-- Build reliable REST APIs and optimize database performance.
-- Apply clean code principles and software architecture.
-- Explore data engineering and deployment technologies.
-- Develop useful projects and collaborate with other developers.
+## `$ current-focus`
+
+- Building reliable backend applications and APIs
+- Improving database design and query management
+- Learning better deployment workflows with Docker and Linux
+- Exploring practical applications of OCR, IoT, and machine learning
+- Writing cleaner, maintainable, and well-documented code
 
 ---
 
-## Connect With Me
+<!-- ===================== CONNECT ===================== -->
+
+## `$ connect`
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+I'm always interested in learning, collaborating, and building useful software.
+
+<a href="https://github.com/KevinTriPutra19">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+</div>
 
-*Building today. Improving every day.*
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:4338CA,100:0B1120" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:312E81,100:0B1020&section=footer" width="100%" />
+
+<sub>Designed with focus, built with curiosity. · © Kevin Tri Putra</sub>
 
 </div>
