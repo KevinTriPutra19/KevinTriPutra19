@@ -25,7 +25,7 @@
 
 ## `$ whoami`
 
-I'm an Information Systems graduate from **Telkom University** with an interest in backend development, database management, and system integration.
+I'm an Information Systems graduate from **Telkom University** with an interest in Full Stack development, database management, and system integration.
 
 I enjoy building practical applications that connect software, data, and hardware — from web-based management systems to IoT monitoring and machine learning projects.
 
