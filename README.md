@@ -21,10 +21,6 @@
 <code>&gt; Loading skills, projects, and ideas...</code><br/>
 <code>&gt; Status: Ready to build.</code>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,50:8B5CF6,100:22D3EE" width="78%" alt="Neon divider"/>
-
 </div>
 
 ---
@@ -35,7 +31,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hey, I'm Kevin. 👋
+### 👋 Hey, I'm Kevin
 
 I'm an Information Systems graduate from **Telkom University** interested in building useful, reliable, and maintainable digital products.
 
@@ -56,7 +52,7 @@ My interests span frontend and backend development, database systems, applicatio
 
 ### Developer Profile
 
-| | |
+| Profile | Details |
 |---|---|
 | **Name** | Kevin Tri Putra |
 | **Role** | Full Stack Developer |
@@ -76,31 +72,35 @@ My interests span frontend and backend development, database systems, applicatio
 
 ## `02` / TECHNOLOGY ARSENAL
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=php,python,dart,html,css,js&theme=dark" alt="PHP, Python, Dart, HTML, CSS, and JavaScript"/>
 
-### Frameworks & Development
+</td>
+<td width="33%" valign="top" align="center">
+
+### Frameworks
 
 <img src="https://skillicons.dev/icons?i=laravel,flutter,react&theme=dark" alt="Laravel, Flutter, and React"/>
 
-### Databases & Tools
+</td>
+<td width="34%" valign="top" align="center">
+
+### Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,docker,linux,arduino&theme=dark" alt="MySQL, Git, GitHub, VS Code, Docker, Linux, and Arduino"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## `03` / SELECTED PROJECTS
-
-<div align="center">
-<sub>REAL PROJECTS · PRACTICAL ENGINEERING · CONTINUOUS IMPROVEMENT</sub>
-</div>
-
-<br/>
 
 <table width="100%">
 <tr>
@@ -124,9 +124,7 @@ An integrated waste management platform connecting citizens, collection drivers,
 - Citizen and driver mobile applications
 - Web-based administration system
 
-**Stack**
-
-`Flutter` `Dart` `PHP` `MySQL`
+**Stack:** `Flutter` `Dart` `PHP` `MySQL`
 
 <br/>
 
@@ -157,9 +155,7 @@ An IoT monitoring system that captures treadmill display readings and extracts i
 - RFID functionality
 - Docker Compose deployment
 
-**Stack**
-
-`PHP` `Python` `OpenCV` `EasyOCR` `MySQL` `Docker`
+**Stack:** `PHP` `Python` `OpenCV` `EasyOCR` `MySQL` `Docker`
 
 <br/>
 
@@ -177,39 +173,23 @@ An IoT monitoring system that captures treadmill display readings and extracts i
 
 ## `04` / GITHUB ANALYTICS
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KevinTriPutra19&show_icons=true&hide_border=true&border_radius=12&bg_color=050816&title_color=A78BFA&icon_color=67E8F9&text_color=CBD5E1&ring_color=8B5CF6" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTriPutra19&layout=compact&hide_border=true&border_radius=12&bg_color=050816&title_color=A78BFA&text_color=CBD5E1&langs_count=8" alt="Top programming languages"/>
-
-<br/><br/>
-
-<img width="76%" src="https://streak-stats.demolab.com?user=KevinTriPutra19&hide_border=true&border_radius=12&background=050816&ring=8B5CF6&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `05` / CURRENT MISSION
-
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### `01` — Engineering
-
-- Strengthen full-stack development skills
-- Build maintainable applications and APIs
-- Improve database design and optimization
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=KevinTriPutra19&show_icons=true&hide_border=true&border_radius=12&bg_color=050816&title_color=A78BFA&icon_color=67E8F9&text_color=CBD5E1&ring_color=8B5CF6" alt="Kevin Tri Putra GitHub statistics"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### `02` — Exploration
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTriPutra19&layout=compact&hide_border=true&border_radius=12&bg_color=050816&title_color=A78BFA&text_color=CBD5E1&langs_count=8" alt="Kevin Tri Putra most used programming languages"/>
 
-- Learn deployment and DevOps workflows
-- Explore IoT and machine learning solutions
-- Document projects and improve code quality
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img width="76%" src="https://streak-stats.demolab.com?user=KevinTriPutra19&hide_border=true&border_radius=12&background=050816&ring=8B5CF6&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Kevin Tri Putra GitHub contribution streak"/>
 
 </td>
 </tr>
@@ -217,21 +197,48 @@ An IoT monitoring system that captures treadmill display readings and extracts i
 
 ---
 
-## `06` / ESTABLISH CONNECTION
+## `05` / CONNECT WITH ME
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+
+### Let's build something useful
+
+I'm always open to learning, collaborating, and discussing practical software projects involving web development, mobile applications, IoT, OCR, and machine learning.
+
+Whether you want to talk about a project, technology, or potential collaboration, feel free to reach out through any of the channels here.
+
+> *Learn continuously. Build thoughtfully. Improve consistently.*
+
+</td>
+<td width="38%" valign="middle" align="center">
 
 <a href="https://github.com/KevinTriPutra19">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Open GitHub profile"/>
 </a>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/kevin-tri-putra-7a014a25">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open LinkedIn profile"/>
 </a>
-<a href="mailto:kpnkvn19@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
-</a>
 
 <br/><br/>
+
+<a href="mailto:kpnkvn19@gmail.com">
+<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to Kevin Tri Putra"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06` / SYSTEM STATUS
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3200&pause=1000&color=A5B4FC&center=true&vCenter=true&width=520&height=25&lines=while+(learning)+%7B+build();+improve();+repeat();+%7D" alt="Animated coding motto"/>
 
